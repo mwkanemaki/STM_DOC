@@ -1,0 +1,158 @@
+
+
+●特に重要なもの3つ
+
+　CubeIDEの理解　UM2609
+
+　CubeMX　の理解 UM1718
+
+　HAL、LL　の理解 UM1860 (STM32L4シリーズの場合)
+　　NUCLEO-L476RG (評価基板)
+       STM32L476RG  (MCUはこれです)
+
+
+●sigfox　そのものの理解
+●sigfox の API 関連
+
+●BLE　そのものの理解
+●BLEの API 関連
+　
+
+
+
+
+***** UM *****
+
+●UM1075
+User manual
+ST-LINK/V2 in-circuit debugger/programmer for STM8 and STM32
+
+
+
+●UM1718 かなり重要
+User manual
+STM32CubeMX for STM32 configuration and initialization C code generation
+
+Appendix A STM32CubeMX pin assignment rules
+
+Appendix B STM32CubeMX C code generation design choices and limitations
+
+
+●UM1724
+STM32 Nucleo-64 boards (MB1136)
+
+NUCLEO-L073RZ
+NUCLEO-L152RE
+NUCLEO-L476RG
+
+
+●UM1860　　重要 始め方が記述されている
+Getting started with STM32CubeL4 MCU Package
+for STM32L4 Series and STM32L4+ Series
+
+
+
+
+UM1873 
+User manual
+Getting started with the X-CUBE-BLE1 Bluetooth Low Energy software expansion
+for STM32Cube
+
+●UM1884 重要
+ Description of STM32L4/L4+ HAL and low-layer drivers
+
+
+
+UM2071
+BlueNRG-1, BlueNRG-2 development kits
+
+
+◎UM2169 重要
+Getting started with the Sigfox S2-LP kit
+
+
+UM2211
+BLE-Sub1 GHz development kit
+
+
+
+
+UM2497
+Getting started with the X-CUBE-SFXS2LP1 software expansion for STM32Cube
+
+
+●UM2553　重要　ゼロからSTM32プロジェクトを作る場合
+STM32CubeIDE quick start guide
+
+
+
+UM2578
+Migration guide from TrueSTUDIO® to STM32CubeIDE
+
+
+
+UM2579
+Migration guide from System Workbench to STM32CubeIDE
+
+
+UM2609
+User manual
+STM32CubeIDE user guide
+
+
+
+
+◎UM2666　重要！！
+
+Getting started with the X-CUBE-BLE2 Bluetooth Low Energy software expansion
+for STM32Cube
+
+
+
+
+
+
+
+***** AN *****
+
+●AN4190
+Application note
+Antenna selection guidelines
+
+
+
+
+
+●AN4392
+日本国向けにするための情報
+Using the BlueNRG family transceivers under ARIB
+ STD-T66 in the 2400 – 2483.5 MHz band
+
+
+
+●AN4486
+
+BlueNRG, BlueNRG-MS over-the-air bootloader
+
+
+●AN4869
+The BlueNRG-1, BlueNRG-2 BLE OTA (over-the-air) firmware upgrade
+
+
+
+
+
+
+
+
+AN4979
+
+
+
+AN5495
+The BlueNRG-1, BlueNRG-2 SDK compatibility matrixes
+
+
+
+
+
